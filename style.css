@@ -1,0 +1,68 @@
+#top{
+background:blue;
+border: dotted; 3px black;
+}
+
+.mid{ border: solid 3px black;
+
+
+	background: #ff0000}
+
+.bot{background: rgba(0, 255, 0, .5);
+width: 80%;
+height: 40%;
+}
+
+body{background: pink;
+color: black;
+font-size: 20px;
+margin: 0;
+padding: 0;
+}
+
+table{ border: solid 3px black;  
+background-image:url("https://avatarfiles.alphacoders.com/233/thumb-150-233520.jpg")}
+ <--! tr{border: solid 3px black; background: rgba(0, 255, 0,)} -->
+th{background: blue; border: solid 3px black;background: rgba(0, 255, 0, .0)}
+td{background: red; border: solid 3px black;background: rgba(0, 255, 0, .0)}
+
+.acceso{
+	background:pink;
+	text-align: center;
+	border: solid 2px white;
+	width: 500px;
+	display: inline-block;
+	border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, .7) 10px 10px,rgba(0, 0, 0, .3) 13px 13px;
+    margin: 20px;
+    padding: 10px;
+    background-color: rgba(255,255,255, .6);
+
+}
+
+.centrar{
+	width: 100%;
+	text-align: center;
+    margin-top: 10px;
+
+ display:flex;
+align-items: center;
+justify-content: center;
+
+}
+
+.aba{border: solid 2px black;
+	margin-top: 10px;
+}
+
+
+#fondo{	background-image:url("https://avatarfiles.alphacoders.com/233/thumb-150-233520.jpg")
+height: 900px;
+background-repeat:no-repeat;
+background-size: 100%;
+position: relative;
+background-attachment: fixed;
+
+}
+
+
